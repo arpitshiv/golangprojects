@@ -1,4 +1,4 @@
-module dithub.com/arpitshiv/golangproject
+module github.com/arpitshiv/golangproject
 
 go 1.21.5
 
